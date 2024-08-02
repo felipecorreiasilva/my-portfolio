@@ -12,9 +12,8 @@ let theme = createTheme({
         },
     },
     typography: {
-        fontFamily: [
-            "Helvetica Neue",
-        ].join(','),
+        fontFamily: "Helvetica Neue"
+        
     }
 });
 
